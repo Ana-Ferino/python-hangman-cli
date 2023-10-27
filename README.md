@@ -31,7 +31,7 @@ This happens until the game is lost because the doll was completely built, or th
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Ana-Ferino/python-hangman-cli.git
+git clone https://github.com/your-username/python-hangman-cli.git
 ```
 
 ### Running the game
